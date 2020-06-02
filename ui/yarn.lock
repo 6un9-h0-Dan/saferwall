@@ -8703,12 +8703,10 @@ vue-loader@^15.7.2:
     vue-hot-reload-api "^2.3.0"
     vue-style-loader "^4.1.0"
 
-vue-lodash@^2.0.2:
-  version "2.0.2"
-  resolved "https://registry.yarnpkg.com/vue-lodash/-/vue-lodash-2.0.2.tgz#08019cc1969ecdf3346017865f86cf4dade0618c"
-  integrity sha512-qC0A6mkF5yUt9Wy2zMa8qGpt+/JTjtlJ+ch1UKfr3eWscTrlK0FlD5GhfPaU/21ZOlZcRXsFriqf/ddchYA6CQ==
-  dependencies:
-    lodash "^4.17.11"
+vue-lodash@^2.1.2:
+  version "2.1.2"
+  resolved "https://registry.yarnpkg.com/vue-lodash/-/vue-lodash-2.1.2.tgz#1ec2b1471ee289518e8d285250a25516adee6c51"
+  integrity sha512-6QsNC7/XjrK4xKxFhh6Ppvcrfm0uAeR/lFsySsMgfEFUWkvRztcAIS3MsqAI4bBnAaLo9ou+8tUfJ8d+yrljQg==
 
 vue-quill-editor@^3.0.6:
   version "3.0.6"
