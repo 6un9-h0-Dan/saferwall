@@ -15,7 +15,7 @@
     "core-js": "^3.4.3",
     "dotenv": "^8.2.0",
     "flag-icon-css": "^3.4.5",
-    "moment": "^2.24.0",
+    "moment": "^2.29.0",
     "vue": "^2.6.10",
     "vue-awesome-notifications": "^3.1.0",
     "vue-bulma-progress-tracker": "git+https://github.com/mrassili/progress-tracker.git",
