@@ -9,11 +9,11 @@ ruby RUBY_VERSION
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll"
+gem "jekyll", ">= 3.9.0"
 
-gem 'jekyll-feed'
+gem 'jekyll-feed', '>= 0.12.1'
 
-gem "jekyll-assets"
+gem "jekyll-assets", ">= 3.0.12"
 
 gem 'autoprefixer-rails'
 gem 'jekyll-autoprefixer'
